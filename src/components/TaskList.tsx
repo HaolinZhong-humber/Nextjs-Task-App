@@ -1,7 +1,6 @@
 'use client'
 import { useState } from "react";
 import { Task } from "@/types/Task";
-import Header from "./Header";
 import TaskItem from "./TaskItem";
 import AddTask from "./AddTask";
 
